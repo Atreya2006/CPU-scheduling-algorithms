@@ -6,6 +6,8 @@
 
 using namespace std;
 
+//Something new
+
 /** Global Constants **/
 const string TRACE = "trace";
 const string SHOW_STATISTICS = "stats";
